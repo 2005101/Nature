@@ -13,4 +13,5 @@ Welcome to the **Meditation Timer** project! This is a simple yet effective tool
 1. HTML: For structuring the web page.
 2. CSS: For styling the interface and buttons.
 3. JavaScript: For handling the timer functionality.
-   
+
+Check out the website here: https://nature-smxc-26jbp3uwk-amina-s-projects-ff1f56cc.vercel.app/  
