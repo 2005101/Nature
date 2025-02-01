@@ -1,0 +1,27 @@
+.timebox{
+    height:100vh;
+    background-image: url(10minute.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: rgb(249, 245, 245);
+    gap: 2rem;
+}
+.time{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.time h2{
+    font-size: 10rem;
+    font-weight: 150;
+}
+
+.time p{
+    font-size: 02rem;
+    font-weight: 100;
+}
